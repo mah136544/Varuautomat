@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Varuautomat", "Varuautomat\Varuautomat.csproj", "{35E69A7B-78DF-4856-86DC-E3D8245A2A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vending - machine - xUnit", "vending - machine - xUnit\vending - machine - xUnit.csproj", "{06C70AD7-65A4-4303-959F-F6D819F2DB8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E69A7B-78DF-4856-86DC-E3D8245A2A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E69A7B-78DF-4856-86DC-E3D8245A2A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E69A7B-78DF-4856-86DC-E3D8245A2A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E69A7B-78DF-4856-86DC-E3D8245A2A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C70AD7-65A4-4303-959F-F6D819F2DB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C70AD7-65A4-4303-959F-F6D819F2DB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C70AD7-65A4-4303-959F-F6D819F2DB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C70AD7-65A4-4303-959F-F6D819F2DB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5BDC489-97DF-4603-AE4A-826569CE69EF}
+	EndGlobalSection
+EndGlobal
